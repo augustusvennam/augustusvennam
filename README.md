@@ -4,7 +4,9 @@
 
 <img src="assets/layer-01.svg" width="100%" alt="layer 01 - about" />
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=augustusvennam&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=augustusvennam&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+</p>
 
 ```c#
 >> who_am_i
