@@ -68,16 +68,16 @@ Robotics / UX/Dev crossover / AI agent workflows
                                revised the demo.
 
 004  HeavenBound Church        wordpress / elementor. Live, deployed
-        Website                site at hbcc.ca. Redesigned with UX
+     Website                   site at hbcc.ca. Redesigned with UX
                                coursework; church members tested live
                                updates before full release.
 
 006  Jetson Nano Facial        opencv. Face detection + age estimation
-       Recognition Robot       on a Jetson Nano, onboard GPU inference,
+     Recognition Robot         on a Jetson Nano, onboard GPU inference,
                                and collaborative build.
 
 007  Semi-Local AI Agent       jul 2026 – present. Designing and
-       Workflows               building semi-local AI agent workflows.
+     Workflows                 building semi-local AI agent workflows.
 ```
 
 <img src="assets/layer-04.svg" width="100%" alt="layer 04 - stack" />
