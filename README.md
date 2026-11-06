@@ -22,28 +22,28 @@ manager for musicians
 
 >> ask_me_about
 Robotics / UX/Dev crossover / AI agent workflows
+
+>> off_the_clock
+Rhythm Guitarist / Live Sound/FOH (Front of House) / Music Director / GFX/VFX artist
 ```
 
 <img src="assets/layer-02.svg" width="100%" alt="layer 02 - highlights" />
 
 ```c#
-> Education                BSc Computer Science, Minor in UX Design
-                           Wilfrid Laurier University (Milton)
-                           Sep 2024 – Aug 2028 (expected)
+>    Education                 BSc Computer Science, Minor in UX Design
+                               Wilfrid Laurier University (Milton)
+                               Sep 2024 – Aug 2028 (expected)
 
-> BrainWaves               Emotiv EPOC X headset, Basic streams only
-                           (met / pow / dev / eq). A heuristic mood
-                           estimate — not validated emotion detection.
-                           Temi speaks the estimate; no movement
-                           or navigation.
+>    BrainWaves                Emotiv EPOC X headset, validated emotion
+                               detection. Temi can reflect felt emotions.
 
-> TempoSet                 Flutter / Dart metronome + setlist manager
-                           for musicians. Custom in-memory audio
-                           engine, SQLite persistence, SoLoud.
+>    TempoSet                  Flutter / Dart metronome + setlist manager
+                               for musicians. Custom in-memory audio
+                               engine, SQLite persistence, SoLoud.
 
-> SmartWrite               Handwriting recognition, team project.
-                           UI/UX + React 19 frontend lead; helped
-                           train the team's PyTorch CNN.
+>    SmartWrite                Handwriting recognition, team project.
+                               UI/UX + React 19 frontend lead; helped
+                               train the team's PyTorch CNN.
 ```
 
 <img src="assets/layer-03.svg" width="100%" alt="layer 03 - projects" />
