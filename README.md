@@ -25,6 +25,7 @@ Robotics / UX/Dev crossover / AI agent workflows
 
 >> off_the_clock
 Rhythm Guitarist / Live Sound/FOH (Front of House) / Music Director / GFX/VFX artist
+I sing and play guitar often and help out in both tech/worship aspects in church.
 ```
 
 <img src="assets/layer-02.svg" width="100%" alt="layer 02 - highlights" />
