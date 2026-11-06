@@ -4,9 +4,11 @@
 
 <img src="assets/layer-01.svg" width="100%" alt="layer 01 - about" />
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=augustusvennam&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
 ```c#
 >> who_am_i
-Augustus Vennam // BSc CS + UX minor @ Wilfrid Laurier (Milton)
+A BSc CS + UX minor Student @ Wilfrid Laurier (Milton)
 Frontend & UX · Embedded & Robotics · AI Agentic Workflows
 
 >> current
