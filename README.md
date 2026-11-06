@@ -96,8 +96,15 @@ Robotics / UX/Dev crossover / AI agent workflows
   <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=5EEAD4" />
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/augustusvennam"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" /></a>
+<img src="assets/layer-05.svg" width="100%" alt="layer 05 - connect" />
+
+<p align="left"> 
+  <a href="https://portfolio-website-gamma-one-79.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" />
+  </a> 
+  <a href="https://www.linkedin.com/in/augustusvennam">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" />
+  </a> 
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="" />
