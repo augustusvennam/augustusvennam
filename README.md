@@ -1,11 +1,9 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
----
+<img width="1200" height="400" alt="c7cf57f4-f034-4354-a5da-25018933952c" src="https://github.com/user-attachments/assets/9821d239-9a30-4d6c-87be-abdae21a3f09" />
 
 
-### Augustus Vennam
-BSc Computer Science Student | Minor in User Experience (UX) | @WLU | Seeking Co-op Winter 2026, Summer 2027
-
+# Augustus Vennam
+BSc Computer Science Student | Minor in User Experience (UX) | @WLU
 
 ## 🧠 Languages
 
