@@ -5,9 +5,7 @@
 <img src="assets/layer-01.svg" width="100%" alt="layer 01 - about" />
 
 <p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=augustusvennam&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" />
-  </a>
 </p>
 
 ```c#
