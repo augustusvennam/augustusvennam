@@ -12,6 +12,7 @@ Frontend & UX · Embedded & Robotics · AI Agentic Workflows
 >> current
 Building BrainWaves: Emotiv EPOC X headset + Temi robot
 pipeline, for the Nov 11 Open House demo
+
 Building TempoSet in Flutter: metronome + setlist
 manager for musicians
 
@@ -77,7 +78,6 @@ Robotics / UX/Dev crossover / AI agent workflows
 
 007  Semi-Local AI Agent       jul 2026 – present. Designing and
        Workflows               building semi-local AI agent workflows.
-
 ```
 
 <img src="assets/layer-04.svg" width="100%" alt="layer 04 - stack" />
