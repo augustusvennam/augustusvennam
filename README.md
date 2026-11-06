@@ -52,11 +52,8 @@ I sing and play guitar often and help out in both tech/worship aspects in church
 ```c#
 001  BrainWaves Project        typescript + react. Lead contributor:
                                & designer of React dashboard
-                               over a live WebSocket, 11 automated
-                               tests passed. Mood is a heuristic demo.
-                               Temi speaks the estimate via a
-                               Wizard-of-Oz app, at most once a
-                               minute; no navigation or movement.
+                               over a live WebSocket, and automated
+                               tests passed.
 
 002  TempoSet                  flutter / dart. Metronome + setlist
                                manager for musicians, built in
