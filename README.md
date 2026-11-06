@@ -88,7 +88,7 @@ Robotics / UX/Dev crossover / AI agent workflows
 
 <img src="assets/layer-04.svg" width="100%" alt="layer 04 - stack" />
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=5EEAD4" />
   <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=5EEAD4" />
   <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=5EEAD4" />
@@ -104,7 +104,7 @@ Robotics / UX/Dev crossover / AI agent workflows
 
 <img src="assets/layer-05.svg" width="100%" alt="layer 05 - connect" />
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://portfolio-website-gamma-one-79.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=5EEAD4" />
   </a> 
